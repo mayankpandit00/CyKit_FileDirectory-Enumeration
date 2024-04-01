@@ -1,6 +1,6 @@
 # CyKit Series  
 ## 14) Files &amp; Directories Enumeration
-A pthon program in cybersecurity kit series that finds potential subdomains within the target url.
+A pthon program in cybersecurity kit series that finds potential files and directories within the target url.
 
 ### Requirements :
 Python 3, cmd/terminal or any IDE (vscode or pycharm)
