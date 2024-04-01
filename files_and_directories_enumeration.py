@@ -31,4 +31,4 @@ class FindFilesDirectories:
                     print("[+] Discovered files & directories ==> " + test_url)
 
 
-files_and_directories = FindFilesDirectories("10.0.2.6/mutillidae")
+files_and_directories = FindFilesDirectories("[Target URL]")
